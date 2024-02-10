@@ -21,7 +21,6 @@ body {
 /* LAYOUT */
 header {
   position: relative;
-  /* height: 35vh; */
   /* border-bottom: 7px solid #eee; */
 }
 
@@ -37,13 +36,11 @@ main {
 }
 
 .left {
-  /* width: 52rem; */
   display: flex;
   flex-direction: column;
 }
 
 .right {
-  /* width: 50%; */
   width: 40rem;
   font-size: 2rem;
 }
@@ -62,7 +59,6 @@ h1 {
 .outer_center_div {
   display: flex;
   justify-content: center;
-  /* text-align: cente; */
   padding: 0 1rem;
 }
 .center {
@@ -70,13 +66,11 @@ h1 {
   text-align: center;
   margin-top: 3rem;
   color: #333;
-  /* background-color: yellow; */
 }
 .number {
   background: #eee;
   font-size: 6rem;
   padding: 3rem 0rem;
-  /* width: 15rem; */
 }
 
 .message {
@@ -98,10 +92,6 @@ h1 {
   font-family: "Space Grotesk", sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
-}
-
-.again {
-  /* position: absolute; */
 }
 
 .guess {
