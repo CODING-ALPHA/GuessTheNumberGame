@@ -1,6 +1,6 @@
 # GuessTheNumberGame
 
-- This is a HTML,CSS and JAVASCRIPT game that prompts the player to input a guessed number, the game checks if the guessed number is correct and then tells the player if he/she won or lost. For every number guessed wrong the player's score is subtracted by 1 till the player loses.
+- This is a HTML,CSS and JAVASCRIPT game that i learnt from my javascript course. The game prompts the player to input a guessed number, the game checks if the guessed number is correct and then tells the player if he/she won or lost. For every number guessed wrong the player's score is subtracted by 1 till the player loses.
 
 ![Game Preview](<images/Screenshot 2024-02-10 103352.png>)
 
